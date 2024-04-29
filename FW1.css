@@ -1,0 +1,28 @@
+body {  background-color: black;
+        font-family: Arial, sans-serif;
+}
+
+.header{
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: azure;
+}
+
+p{
+    font-size: 32px;
+    font-style: italic;
+    color: azure;
+}
